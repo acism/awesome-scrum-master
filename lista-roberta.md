@@ -32,3 +32,6 @@
 # Inne
 - [Donella Meadows - Myślenie systemowe](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 - [Five Agile Metrics you won't hate](https://www.atlassian.com/agile/project-management/metrics)
+
+
+# Konflikt
