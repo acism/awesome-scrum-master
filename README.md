@@ -1,4 +1,4 @@
-# Icons Legend
+## Icons Legend
 :closed_book: This is a book you need to buy yourself<br/>
 :book: This is a book free to download / online handbook<br/>
 :earth_africa: This is a link to an online article / blog post<br/>
