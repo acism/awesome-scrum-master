@@ -21,7 +21,6 @@
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
 
 ## DevOps
-- :closed_book: [Gene Kim, Kevin Behr, George Spafford - Projekt Feniks](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - :closed_book: [Gene Kim, Jez Humble, Patrick Debois - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 
 ## Metrics
