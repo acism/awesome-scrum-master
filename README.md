@@ -4,6 +4,7 @@
 :earth_africa: This is a link to an online article / blog post<br/>
 :books: This is a link to an online library of techniques<br/>
 
+For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 
 ## Scrum
 
