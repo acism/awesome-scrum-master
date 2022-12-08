@@ -22,7 +22,7 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
 
 ## Scrum Masters Development and Growth Paths
-- 📖 [Towards a Framework of Agile Coaching Competency Part I] (https://pdf4pro.com/view/towards-a-framework-of-agile-coaching-competency-part-i-593ea0.html)
+- 📖 [Towards a Framework of Agile Coaching Competency Part I](https://pdf4pro.com/view/towards-a-framework-of-agile-coaching-competency-part-i-593ea0.html)
 
 ## DevOps
 - :closed_book: [Gene Kim, Jez Humble, Patrick Debois - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
