@@ -3,6 +3,7 @@
 :book: This is a book free to download / online handbook<br/>
 :earth_africa: This is a link to an online article / blog post<br/>
 :books: This is a link to an online library of techniques<br/>
+:movie_camera: Online Video
 
 For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 
@@ -19,7 +20,7 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 - :closed_book: [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 
 ## Working with Product Owner
-- :earth_africa: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+- :movie_camera: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ## Scaling
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
