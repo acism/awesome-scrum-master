@@ -18,6 +18,9 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 ## Working with a Team
 - :closed_book: [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 
+## Working with Product Owner
+- :earth_africa: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+
 ## Scaling
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
 
