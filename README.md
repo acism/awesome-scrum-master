@@ -21,7 +21,7 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 ## Scaling
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
 
-## Scrum Masters Development and Growth Paths
+## Scrum Master Development
 - 📖 [Towards a Framework of Agile Coaching Competency Part I](https://pdf4pro.com/view/towards-a-framework-of-agile-coaching-competency-part-i-593ea0.html)
 
 ## DevOps
