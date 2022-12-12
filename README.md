@@ -38,6 +38,11 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 - 📕 [Paul Duvall, Steve Matyas, Andrew Glover - Continuous Integration: Improving Software Quality and Reducing Risk](https://www.goodreads.com/book/show/8686650-continuous-delivery)
 - 📕 [Jez Humble, David Farley - Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery)
 
+## Software Quality
+- 📕 [Lisa Crispin, Janet Gregory - Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/book/show/5341009-agile-testing)
+- 📕 [Gojko Adzic - Bridging the Communication Gap: Specification by Example and Agile Acceptance Testing](https://www.goodreads.com/book/show/6443938-bridging-the-communication-gap)
+- 📕 [Gojko Adzic - Specification by Example: How Successful Teams Deliver the Right Software](https://www.goodreads.com/book/show/10288718-specification-by-example)
+
 ## Metrics
 - 🌍 [Five Agile Metrics you won't hate](https://www.atlassian.com/agile/project-management/metrics)
 
