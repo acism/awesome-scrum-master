@@ -25,6 +25,9 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 ## Scaling
 - :closed_book: [Craig Larman, Bas Voddle - Large-Scale SCrum: More with LeSS](https://www.goodreads.com/book/show/31378603-large-scale-scrum)
 
+## Scrum Master Development
+- 📖 [Towards a Framework of Agile Coaching Competency Part I](https://pdf4pro.com/view/towards-a-framework-of-agile-coaching-competency-part-i-593ea0.html)
+
 ## Software Development Lifecycle
 - :closed_book: [Michael Hüttermann - Agile ALM: Lightweight tools and Agile strategies](https://www.goodreads.com/book/show/11165258-agile-alm)
 - 📕 [Bob Aiello, Leslie Sachs - Agile Application Lifecycle Management: Using Devops to Drive Process Improvement](https://www.goodreads.com/book/show/16248727-agile-application-lifecycle-management)
