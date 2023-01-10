@@ -49,4 +49,7 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 ## Metrics
 - 🌍 [Five Agile Metrics you won't hate](https://www.atlassian.com/agile/project-management/metrics)
 
+## Agile Games
+- :books: [Tasty Cupcakes](https://tastycupcakes.org/)
+
 ## Other
