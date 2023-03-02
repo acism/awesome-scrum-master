@@ -1,9 +1,8 @@
 ## Icons Legend
-:closed_book: Książka. Po prostu ;)
-:book: Darmowa książka w wersji online
-:earth_africa: Link do artykułu w internecie / post na blogu
-:books: Link do zbioru technik online
-
+:closed_book: Książka. Po prostu ;)  
+:book: Darmowa książka w wersji online  
+:earth_africa: Link do artykułu w internecie / post na blogu  
+:books: Link do zbioru technik online  
 
 ## Scrum
 
