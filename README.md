@@ -52,6 +52,7 @@ For Resources in Polish, visit: :poland: [Resources in Polish](Readme_PL.md)
 ## Agile Games
 - :books: [Tasty Cupcakes](https://tastycupcakes.org/)
 - :books: [Gamestorming](https://gamestorming.com/)
+- :books: [Pointly - free planning poker, no signup](https://pointly.space/en/planning-poker)
 - :closed_book: [Luke Hohmann - Innovation Games: Creating Breakthrough Products Through Collaborative Play](https://www.goodreads.com/book/show/1055446.Innovation_Games)
 - :book: [Glenn Parker, Richard Kropp - 50 Activities for Self-Directed Teams](https://books.google.pl/books?id=RqOlT_1By6EC&pg=PP5&lpg=PP5&dq=hot+buttons+self-directed+teams&source=bl&ots=y9xNGVvQAo&sig=ACfU3U2_y-NGxMmg5jieRULZpno0KmU-cQ&hl=pl&sa=X&ved=2ahUKEwjS6Zerwuf6AhXBl4sKHaX3Ad4Q6AF6BAg2EAM#v=onepage&q=hot%20buttons%20self-directed%20teamshot%20butt&f=false)
 
